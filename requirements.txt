@@ -1,0 +1,10 @@
+torch==2.14.1
+torchvision==0.29.1
+numpy==2.5.3
+transformers==5.18.0
+einops==0.8.2
+matplotlib==3.11.2
+imageio==2.38.0
+pillow==12.3.0
+PyYAML==6.0.3
+modal==1.6.1
